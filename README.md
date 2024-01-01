@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Passionate about unraveling insights from complex datasets using the dynamic duo of Python and SQL. Proficient in crafting elegant solutions with a strong foundation in data structures. Eager to contribute my data analytics expertise to innovative projects and drive impactful results."<br>🌱 I’m currently learning Data Science and Machine Learning<br>👯 I’m looking to collaborate on Data Analytics projects<br>🤝 I’m looking for help with Data Structures and Algorithms<br>💬 Ask me about Data Science<br>⚡ Fun fact: I am lazy but Smart
+"Passionate about unraveling insights from complex datasets using the dynamic duo of Python and SQL. Proficient in crafting elegant solutions with a strong foundation in data structures. Eager to contribute my data analytics expertise to innovative projects and drive impactful results."<br>🌱 I’m currently learning Data Science and Machine Learning<br>👯 I’m looking to collaborate on Data Analytics projects<br>🤝 I’m looking for help with Data Structures and Algorithms<br>💬 Ask me about Data Science<br>⚡ Fun fact: I am obessed with the oil of 21st Century - 'Data 🛢️'
 
 
 ## 🌐 Socials:
